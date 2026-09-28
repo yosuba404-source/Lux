@@ -1,0 +1,5 @@
+# ไฟล์ requirements.txt ใน GitHub ของมึงต้องมี 4 บรรทัดนี้
+yfinance
+pandas
+requests
+streamlit
